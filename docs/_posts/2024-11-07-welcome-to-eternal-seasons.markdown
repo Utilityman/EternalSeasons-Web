@@ -59,5 +59,5 @@ Following these items, I'm looking to start implementing more abilities for each
 
 ### In Closing
 
-There will be more to share soon. And I think you so much for your support and I cannot wait to show you what is brewing next time. 
+There will be more to share soon. And I thank you so much for your support and I cannot wait to show you what is brewing next time. 
 
