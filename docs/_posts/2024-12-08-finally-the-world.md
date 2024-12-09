@@ -62,6 +62,7 @@ So far I had been developing with a single, very simple `dev_island` which inclu
 But I needed some improvements across the board.
 
 ![New Dev Island]({{ site.baseurl }}/assets/2024/12/new_dev_island.001.PNG)
+##### More to come
 
 #### Environment and Day/Night Cycles
 
@@ -82,7 +83,7 @@ The results are astonishing and I'm incredibly satisfied with the results. The o
 
 This is more of a game design decision but I'm wondering how frustrating (or not) it would be for the players if the game does have this realistic night and players need to figure out how to provide their own illumination while exploring during the night. 
 
-This feels more frustrating that practical. I'd love to have "dark dungeons" which I have this cloak of darkness but just not entirely sure what to do about the routine night time global illumination. 
+This feels more frustrating than practical. I'd love to have "dark dungeons" which I have this cloak of darkness but just not entirely sure what to do about the routine night time global illumination. 
 
 All the still absolutely stoked with the results. 
 
@@ -119,8 +120,6 @@ I was able to _very very_ simply extend this to affect foliage elements such as 
   <img src="{{ site.baseurl }}/assets/2024/12/plant_controller.plant_bush_leaves_03.001.gif" width="364" /> 
   <img src="{{ site.baseurl }}/assets/2024/12/plant_controller.plant_grass_02.001.gif" width="364" /> 
 </p>
-
-
 
 And secondly was a simple flame visual effect.
 
