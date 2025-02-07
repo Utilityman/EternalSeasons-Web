@@ -6,9 +6,6 @@ categories: dev update
 ---
 
 (This month we're trying MP4s to share the media, hopefully it works otherwise we'll do a second pass on the assets on this page)
-<video width="100%" muted autoplay controls loop>
-    <source src="{{ site.baseurl }}/assets/2025/02/test.mp4" type="video/mp4">
-</video>
 
 Last month was ironing out the (most likely) 3D environment workflow that I'll be using in the future. And the end of the month being work on the character models and using the Synty characters.
 
@@ -107,9 +104,13 @@ Next month perhaps I will share more of my plans for this first quarter of 2025,
 
 About a year ago I was working the game development dream of "It'll be done when it's done and that's ok.". I was coding in Java supported by the LibGDX framework - which by all means were super great tools to do plenty of things. But the problem became I don't want to be working on this game "til he's 90". I do want to complete this and working with LibGDX was requiring far too much to be handled by myself. 
 
---- Video of what the game looked like in Java land
+<video width="100%" muted autoplay controls loop>
+    <source src="{{ site.baseurl }}/assets/2025/02/javaland_demo.mp4" type="video/mp4">
+</video>
 
-A good framework, but it's not an engine. The thing that finally broke the camel's back was handling networking. 
+Looking at this really has me thinking how good Godot has been for this project.
+
+A good framework, but it's not an engine. The thing that finally broke the camel's back was handling networking. Ironically I had to go months prior in the project's commit history to get this video as I had otherwise only a visible plane I was about to START to think about replicating entities onto. 
 
 I began writing an implementation for it but the whole thing -- everything about it -- just really started spiraling in complexity, requirements, and unknowns. Far too much to think about when I'm really just trying to make a game here.
 
@@ -131,4 +132,6 @@ I learned, and it helped in ways.
 
 I think at this point, at least from my own perspective, I've come to write better code. Code which will help create a better game in the end. I'm looking forward to comparing what we have right here in this article _today_ to what I'll have in a year from now again.
 
---- Maybe some sort of video from at SOMEPOINT during development, maybe when the T-posing guy is jumping and doing fireballs
+<video width="100%" muted autoplay controls loop>
+    <source src="{{ site.baseurl }}/assets/2025/02/basically_everything_year_one.mp4" type="video/mp4">
+</video>
