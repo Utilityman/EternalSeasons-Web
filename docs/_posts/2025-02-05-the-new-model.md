@@ -5,7 +5,7 @@ date:   2025-02-05 14:00:00 -0500
 categories: dev update
 ---
 
-(This month we're trying MP4s to share the media, hopefully it works otherwise we'll do a second pass on the assets on this page)
+(This month we're trying MP4s to share the media, hopefully it works otherwise I'll do a second pass on the assets on this page)
 
 Last month was ironing out the (most likely) 3D environment workflow that I'll be using in the future. And the end of the month being work on the character models and using the Synty characters.
 
