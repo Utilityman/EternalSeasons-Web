@@ -67,7 +67,6 @@ There's still a lot more work to do. Nothing is quite exactly perfect here but I
 
 ![Far too much to do right now.]({{ site.baseurl }}/assets/2025/02/model_todos.PNG)
 
-
 If I were to work all of these issues now, I would be perfecting the model for the next few months. And I think most of this will be battles for another day. A good start, with much more to come - eventually.
 
 ## What Else?
